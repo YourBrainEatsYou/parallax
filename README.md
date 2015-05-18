@@ -1,5 +1,5 @@
 # parallax
-A simple Parallax Plugin for jQuery with `<img>` support.
+A simple parallax plugin for jQuery with `<img>` support.
 
 ##Demo
 
