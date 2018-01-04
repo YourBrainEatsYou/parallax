@@ -1,15 +1,15 @@
 # parallax
 A simple parallax plugin for jQuery with `<img>` support.
 
-##Demo
+## Demo
 
-###JavaScript
+### JavaScript
 ```javascript
 $('.parallax').parallax({
   offsetFix: 155
 });
 ```
-###CSS
+### CSS
 ```css
 .parallax{
   overflow: hidden;
